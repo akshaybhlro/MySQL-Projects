@@ -1,4 +1,4 @@
-# Project Title: Library Management System (LMS)
+# Library Management System (LMS)
 Project Duration: 1 Month
 
 ## Project Overview:
