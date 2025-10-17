@@ -96,7 +96,8 @@ DELIMITER ;
 ‣ COMMIT and ROLLBACK ensure consistent operations and rollback in case of errors.<br>
 
 ## EER Diagram:
- <img width="975" height="584" alt="image" src="https://github.com/user-attachments/assets/3842df7b-0227-40a6-924c-ae3db08d8831" />
+<img width="975" height="584" alt="image" src="https://github.com/user-attachments/assets/c8481519-0489-45ef-8252-20e701383375" />
+
 
 
 
